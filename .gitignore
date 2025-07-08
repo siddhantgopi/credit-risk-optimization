@@ -1,0 +1,14 @@
+# Ignore data
+data/raw/
+data/processed/
+
+# Ignore model files
+*.pkl
+*.npy
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
