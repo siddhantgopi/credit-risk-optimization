@@ -12,3 +12,4 @@ data/processed/
 # OS files
 .DS_Store
 Thumbs.db
+notebooks/clean1.csv
