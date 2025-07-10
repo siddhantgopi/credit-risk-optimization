@@ -5,7 +5,7 @@ data/processed/
 # Ignore model files
 *.pkl
 *.npy
-
+*.csv
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
